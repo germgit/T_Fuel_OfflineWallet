@@ -33,3 +33,9 @@ JavaScript, CSS, HTML
 
 ### Contact
 germgit@email.cz
+
+###
+Use this wallet for free.
+
+Sincerely 
+Germar
