@@ -26,7 +26,11 @@ Review transaction, check, if all is displayed as expected.
 Confirm and Send Raw transaction to Network.
 
 ### 
-I'm not responsible for any damage.
+Be careful, what you do. I'm not responsible for any damage. Practice with some small amounts.
+
+### Special Thanks
+go to Michelle Whitedove, who introduced a lot of people to Theta. 
+Without her, this wallet would not exist. You can find her [here](https://www.michellewhitedove.com).
 
 ### Language
 JavaScript, CSS, HTML
