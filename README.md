@@ -1,4 +1,4 @@
-# Theta-Fuel OfflineWallet
+# Offline T-Fuel Wallet for Theta
 
 ### General
 This is my first blockchain programming for Theta Hackathon V3.
