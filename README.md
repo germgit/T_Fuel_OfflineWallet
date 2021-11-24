@@ -32,16 +32,19 @@ Be careful, what you do. I'm not responsible for any damage. Practice with some 
 go to Michelle Whitedove, who introduced a lot of people to Theta. 
 Without her, this wallet would not exist. You can find her [here](https://www.michellewhitedove.com).
 
-### Links
-[ThetaToken Website](https://www.thetatoken.org)
-
-## [VIDEO Demonstration](https://vimeo.com/649517724)
-
 ### Language
 JavaScript, CSS, HTML
 
 ### Contact
 germgit@email.cz
+
+### Links
+[Download Wallet](https://github.com/germgit/T_Fuel_OfflineWallet/archive/refs/heads/main.zip)
+
+[ThetaToken Website](https://www.thetatoken.org)
+
+## [VIDEO Demonstration](https://vimeo.com/649517724)
+
 
 ###
 Use this wallet for free.
