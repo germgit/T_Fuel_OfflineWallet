@@ -1,7 +1,7 @@
-# Offline T-Fuel Wallet for Theta
+# Offline T-Fuel Wallet (Theta)
 
 ### General
-This is my first blockchain programming for Theta Hackathon V3.
+This is my first blockchain programming for Theta Hackathon Q3 2021.
 
 ### Description
 This wallet allows you to sign and send transactions into the Theta Network, while your private key remains offline.
